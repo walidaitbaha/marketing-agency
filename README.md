@@ -61,7 +61,7 @@ marketing-agency/
 ### Installation
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/YOURUSERNAME/marketing-agency.git
+git clone https://github.com/walidaitbaha/marketing-agency.git
 
 # Move into the folder
 cd marketing-agency
