@@ -4,7 +4,7 @@ A modern, fully responsive multi-page digital marketing agency website
 built with Next.js 14, TailwindCSS v4, and TypeScript.
 
 ## 🚀 Live Demo
-[View Live Site](https://marketing-agency.vercel.app)
+[View Live Site](https://marketing-agency-eosin.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js 14 (App Router)
